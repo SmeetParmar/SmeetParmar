@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SmeetParmar
-- 👀 I’m interested in Web Designing and Video Editing .
-- 🌱 I’m currently studiying B.Sc IT [Sem- 6]
-- 📫 How to reach me :-
+- 👀 I’m interested in Web Designing and Video Editing.
+- 🌱 I have completed my B.Sc. IT and pursuing Web Development at Conestoga College, Kitchener, Canada.
+- 📫 How to reach me:-
 Gmail - smeetparmar2001@gmail.com
 
 <!---
