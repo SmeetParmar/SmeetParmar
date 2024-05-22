@@ -24,7 +24,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23ff00bb.svg?logo=Instagram&logoColor=white)](https://instagram.com/smeet_parmar_14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smeet-parmar-25a697228/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@legendarygamer5321)
-[![CCR Badge](https://img.shields.io/badge/CCR-%23FFFFFF.svg)](https://drive.google.com/file/d/19RUI_4e1e7DQ3HMKuQXF2T5jarh4GCV1/view?usp=drive_link)
+[![CCR Badge](https://img.shields.io/badge/CCR-%23FFFFFF.svg)](https://drive.google.com/file/d/1C0TK69cyLceU7SnwsA1vowgs9DyW-EKP/view?usp=drive_link)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SmeetParmar&theme=blueberry&hide_border=true)<br/>
