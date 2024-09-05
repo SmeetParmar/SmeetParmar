@@ -10,7 +10,7 @@
 ✨ _**Programming Languages**_: PHP, JavaScript, Java, Kotlin, C, C++, SQL <br>
 🎨 _**Front-End Technologies**_: HTML, CSS, Bootstrap, React, jQuery <br>
 💻 _**Back-End Technologies**_: ASP.NET, C#.NET, Node.js, Express.js, GraphQL <br>
-🗄️ _**Database Management Technologies**_: MySQL, MongoDB, Firebase <br>
+🗄️ _**Database Management Technologies**_: MySQL, MongoDB, Firebase, SQL, NoSQL <br>
 🛠️ _**Frameworks**_: Flutter, Laravel, CodeIgnitor <br>
 📚 _**Stacks Used**_: WAMP, MERN, MEAN, Agile Methodology<br>
 🖥️ _**Software Tools**_: Filmora, Adobe xD, Premiere Pro, After Effects, Canva, Figma <br>
