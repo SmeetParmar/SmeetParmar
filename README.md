@@ -7,7 +7,7 @@
 ⚡ Besides being a skilled Full Stack Developer, I'm also an avid sports enthusiast. You'll often find me playing Badminton, Football, Cricket, Swimming, and more!
 
 ## 🧠 Skills:
-✨ _**Programming Languages**_: PHP, JavaScript, Java, Kotlin, C, C++, SQL <br>
+✨ _**Programming Languages**_: Python, Java, PHP, Kotlin, Dart, C, C++, C#, JavaScript, JSON, XML <br>
 🎨 _**Front-End Technologies**_: HTML, CSS, Bootstrap, React, jQuery <br>
 💻 _**Back-End Technologies**_: ASP.NET, C#.NET, Node.js, Express.js, GraphQL <br>
 🗄️ _**Database Management Technologies**_: MySQL, MongoDB, Firebase, SQL, NoSQL <br>
