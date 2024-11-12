@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤝 I'm on the lookout for a Full-Time job in Ontario to showcase and upgrade my skills.<br>
-🎓 Completed B.Sc. IT back in India in 2022, Currently pursuing PG Certificate Web Development at Conestoga College, ON, CA.<br>
+🎓 Completed B.Sc. IT back in India in 2022 and Post Graduation in Web Development in August 2024.<br>
 🌱 Always growing, learning and hustling!<br>
 💬 Ask me about anything related to tech, or if you want to hear about my adventures.<br>
 💡 I have experience of around a year as a Full Stack Developer back in India, where I have done 2 intenships gaining practical experience of using WAMP Stack. <br>
