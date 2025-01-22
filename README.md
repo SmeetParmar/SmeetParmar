@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I'm on the lookout for a Full-Time job in Ontario to showcase and upgrade my skills.<br>
+🤝 I'm on the lookout for a Full-Time job across Canada to showcase and upgrade my skills.<br>
 🎓 Completed B.Sc. IT back in India in 2022 and Post Graduation in Web Development in August 2024.<br>
 🌱 Always growing, learning and keep hustling!<br>
 💬 Ask me about anything related to tech, or if you want to hear about my adventures.<br>
