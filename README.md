@@ -10,7 +10,7 @@
 ✨ _**Programming Languages**_: Python, Java, PHP, Kotlin, Dart, C, C++, C#, JavaScript, JSON, XML <br>
 🎨 _**Front-End Technologies**_: HTML, CSS, Bootstrap, React, Angular, Vue, jQuery, TypeScript <br>
 💻 _**Back-End Technologies**_: ASP.NET, C#.NET, Node.js, Express.js, GraphQL <br>
-🛠️ _**Frameworks and Databases Used**_: Flutter, Laravel, LINQ, MySQL, PostgreSQL, Oracle, Firebase, MongoDB, NoSQL <br>
+🛠️ _**Frameworks and Databases Used**_: Flutter, Laravel, LINQ, MySQL, PostgreSQL, Oracle, Firebase, NoSQL, MongoDB <br>
 🖥️ _**Tools and Softwares**_: Filmora, Adobe xD, Premiere Pro, After Effects, Canva, Figma, JIRA, Confluence <br>
 🤝 _**Soft Skills**_: Punctuality, Excellent Communication, Collaborative Teamwork, Project Management, Creativity
 
