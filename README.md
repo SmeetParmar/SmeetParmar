@@ -3,7 +3,7 @@
 🎓 Completed B.Sc. IT back in India in April 2022 and Post Graduation in Web Development in August 2024.<br>
 🌱 Always growing, learning and keep hustling!<br>
 💬 Ask me about anything related to tech, or if you want to hear about my adventures.<br>
-💡 I have experience of more than 3+ Years working as a Full Stack Developer back in India, currently working remotely for InfiniteAI Technologies, gaining practical experience of using MERN Stack. <br>
+💡 I have experience of more than 3+ Years working as a Full Stack Developer back in India, currently working remotely for InfiniteAI Technologies, gaining practical experience of MERN Stack. <br>
 ⚡ Besides being a skilled Full Stack Developer, I'm also an avid sports enthusiast. You'll often find me playing Badminton, Football, Cricket, Swimming, and much more!!
 
 ## 🧠 Skills:
