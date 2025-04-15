@@ -8,7 +8,7 @@
 
 ## 🧠 Skills:
 ✨ _**Programming Languages**_: Python, Java, PHP, Kotlin, Dart, C, C++, C#, JavaScript, JSON, XML <br>
-🎨 _**Front-End Technologies**_: HTML, CSS, Bootstrap, React, Vue, Angular, jQuery, TypeScript <br>
+🎨 _**Front-End Technologies**_: HTML, CSS, Bootstrap, React, Vue, Angular, TypeScript, jQuery <br>
 💻 _**Back-End Technologies**_: ASP.NET, C#.NET, Node.js, Express.js, GraphQL <br>
 🛠️ _**Frameworks and Databases Used**_: Flutter, Laravel, CodeIgnitor, LINQ, NoSQL, MySQL, PostgreSQL, Oracle, Firebase, MongoDB <br>
 🖥️ _**Tools and Softwares**_: Filmora, Adobe xD, Premiere Pro, After Effects, Canva, Figma, AWS, JIRA, Confluence <br>
