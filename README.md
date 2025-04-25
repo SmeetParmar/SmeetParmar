@@ -11,7 +11,7 @@
 🎨 _**Front-End Technologies**_: HTML, CSS, Bootstrap, React, Vue, Angular, TypeScript, jQuery <br>
 💻 _**Back-End Technologies**_: ASP.NET, C#.NET, Node.js, Express.js, GraphQL <br>
 🛠️ _**Frameworks and Databases Used**_: Flutter, Laravel, CodeIgnitor, LINQ, NoSQL, MySQL, PostgreSQL, Oracle, Firebase, MongoDB <br>
-🖥️ _**Tools and Softwares**_: Filmora, Adobe xD, Premiere Pro, After Effects, Canva, Figma, AWS, JIRA, Confluence <br>
+🖥️ _**Tools and Softwares**_: Filmora, Adobe xD, Premiere Pro, After Effects, Canva, Figma, JIRA, Confluence <br>
 🤝 _**Soft Skills**_: Punctuality, Excellent Communication, Collaborative Teamwork, Project Management, Creativity
 
 ## 💻 Tech Stack:
